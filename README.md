@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Auteur
 
-Votre nom
+Salucci Gabin
 
 ## Licence
 
