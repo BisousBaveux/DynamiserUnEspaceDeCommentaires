@@ -1,7 +1,3 @@
-Voici un exemple de document README pour votre projet :
-
----
-
 # Espace Commentaire Dynamique
 
 Ce projet consiste à dynamiser un espace commentaire dans une page web en utilisant JavaScript. L'objectif est de permettre l'ajout de nouveaux commentaires sans rechargement de la page, avec une validation des champs du formulaire.
